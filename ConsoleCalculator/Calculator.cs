@@ -10,5 +10,10 @@ namespace ConsoleCalculator
             // Add your implementation here.
             throw new NotImplementedException();
         }
+
+        public string Calculate()
+        {
+            return string.Empty;
+        }
     }
 }
